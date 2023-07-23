@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/obj/Debug/net7.0/build-gz/q1FgDBQP.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/obj/Debug/net7.0/scopedcss/bundle/MailLobbyer.styles.css",
+      "PackagePath": "staticwebassets/MailLobbyer.styles.css"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/favicon.svg",
+      "PackagePath": "staticwebassets/favicon.svg"
+    },
+    {
+      "Id": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.MailLobbyer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.MailLobbyer.props",
+      "PackagePath": "build\\MailLobbyer.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MailLobbyer.props",
+      "PackagePath": "buildMultiTargeting\\MailLobbyer.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MailLobbyer.props",
+      "PackagePath": "buildTransitive\\MailLobbyer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
