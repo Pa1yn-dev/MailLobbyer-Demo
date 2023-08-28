@@ -23,13 +23,26 @@
         .loading-image {
             height: 200px;
             width: 200px;
+            margin-bottom: 15px;
         }
 
-        .loading-text {
-            font-size: 12px;
+        .loading-text h1 {
+            font-size: large;
             font-weight: bold;
-            color: rgb(0, 0, 0);
+            margin-bottom: 5px;
         }
+
+        .loading-text h2 {
+            font-size: medium;
+            margin-bottom: 5px;
+        }
+
+        .loading-text p {
+            font-size: small;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
         
     </style>
 </head>
@@ -39,8 +52,8 @@
         <div class="loading-container">
             <img class="loading-image" src="favicon.svg" alt="Loading">
             <div class="loading-text">
-                <p>MailLobbyer-Demo</p>
-                <p>This is based on an older version of MailLobbyer that runs in a sandboxed WASM app, it has no actual function and only serves as a demonstration</p>
+                <h1>MailLobbyer-Demo</h1>
+                <h2>This app is based on an older version of MailLobbyer, it has no actual function and only serves as a demonstration</h2>
                 <p>&copy; 2023 MailLobbyer. All rights reserved.</p>
             </div>
         </div>
