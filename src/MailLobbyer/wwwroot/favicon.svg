@@ -7,6 +7,8 @@
    viewBox="0 0 74.756294 80.450989"
    version="1.1"
    id="svg5"
+   sodipodi:docname="maillobbyer.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,7 +25,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     showguides="true" />
+     showguides="true"
+     inkscape:zoom="2.9532991"
+     inkscape:cx="100.2269"
+     inkscape:cy="152.20267"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <linearGradient
@@ -60,17 +71,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-67.206033,-108.27826)">
-    <text
-       xml:space="preserve"
-       style="font-weight:600;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1"
-       x="104.9111"
-       y="156.8058"
-       id="text1386"><tspan
-         sodipodi:role="line"
-         id="tspan1384"
-         style="writing-mode:lr-tb;stroke-width:1"
-         x="104.9111"
-         y="156.8058">ML</tspan></text>
+    <g
+       aria-label="ML"
+       id="text1386"
+       style="font-weight:600;font-size:25.4px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:0;stroke:#000000">
+      <path
+         d="m 91.322093,156.8058 h 2.54 v -6.7056 c 0,-1.7526 -0.254,-5.1816 -0.4318,-6.8072 h 0.0762 l 1.0922,3.8608 1.8034,5.2578 h 1.6764 l 1.8288,-5.2578 1.117597,-3.8608 h 0.0762 c -0.1524,1.6256 -0.4318,5.0546 -0.4318,6.8072 v 6.7056 h 2.5908 v -16.6116 h -3.2512 l -2.006597,6.477 -0.6604,2.4892 h -0.1016 l -0.6858,-2.4892 -1.9812,-6.477 h -3.2512 z"
+         id="path825" />
+      <path
+         d="m 107.9591,156.8058 h 10.7188 v -2.4892 h -7.7978 v -14.1224 h -2.921 z"
+         id="path827" />
+    </g>
     <g
        sodipodi:type="inkscape:box3d"
        id="g1514"
