@@ -203,13 +203,13 @@
       "mscorlib.dll": "sha256-qqpKd+W+AFb6UxudEYEKzrz7ma81p5LrWUwPBVvHV4U=",
       "netstandard.dll": "sha256-OYYuPT3JUknj4LdYIa58zF7kDB3tCnLzjCSuhEjtKXM=",
       "System.Private.CoreLib.dll": "sha256-EVS7zPxPV\/41g2mzPwdXtwiigWxI\/SeAHme1IgyD6tc=",
-      "MailLobbyer.dll": "sha256-xVjzeptOHIBzX9P\/2YM8ubqjC6tW4gJdrDacQi8J1uY="
+      "MailLobbyer.dll": "sha256-YJJhaPDYvIX0b0d\/Rpt7+qUSlEdhdJ1AyEp\/xq0ZSnk="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "MailLobbyer.pdb": "sha256-ebNChhk3STiq6LIBr563CeAQdAcftVgwZUrlJBGDDss="
+      "MailLobbyer.pdb": "sha256-PA8QX9qqOTa1\/h2X1KHatQsnyhGOdQhqsTZd5LXl\/Cc="
     },
     "runtime": {
       "dotnet.7.0.5.g7szw86b94.js": "sha256-codB25EodaFEP43MDCfMBuKXU4LqurUKnQrpoMIFnPs=",
