@@ -9,6 +9,80 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 197580180,
+        "Kind": "Components.Component",
+        "Name": "MailLobbyer.App",
+        "AssemblyName": "MailLobbyer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "MailLobbyer.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "MailLobbyer",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -764547190,
+        "Kind": "Components.Component",
+        "Name": "MailLobbyer.App",
+        "AssemblyName": "MailLobbyer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MailLobbyer.App"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "MailLobbyer.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "MailLobbyer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1957377212,
+        "Kind": "Components.Component",
+        "Name": "MailLobbyer.Shared.Footer",
+        "AssemblyName": "MailLobbyer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Footer"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "MailLobbyer.Shared.Footer",
+          "Common.TypeNameIdentifier": "Footer",
+          "Common.TypeNamespace": "MailLobbyer.Shared",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 241174511,
+        "Kind": "Components.Component",
+        "Name": "MailLobbyer.Shared.Footer",
+        "AssemblyName": "MailLobbyer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MailLobbyer.Shared.Footer"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "MailLobbyer.Shared.Footer",
+          "Common.TypeNameIdentifier": "Footer",
+          "Common.TypeNamespace": "MailLobbyer.Shared",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": 703435618,
         "Kind": "Components.Component",
         "Name": "MailLobbyer.Shared.MainLayout",
@@ -115,75 +189,38 @@
         }
       },
       {
-        "HashCode": -1796097935,
+        "HashCode": -66212333,
         "Kind": "Components.Component",
-        "Name": "MailLobbyer.Shared.NavMenu",
+        "Name": "MailLobbyer.Pages.About",
         "AssemblyName": "MailLobbyer",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "About"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "MailLobbyer.Shared.NavMenu",
-          "Common.TypeNameIdentifier": "NavMenu",
-          "Common.TypeNamespace": "MailLobbyer.Shared",
+          "Common.TypeName": "MailLobbyer.Pages.About",
+          "Common.TypeNameIdentifier": "About",
+          "Common.TypeNamespace": "MailLobbyer.Pages",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -1352725574,
+        "HashCode": 515613190,
         "Kind": "Components.Component",
-        "Name": "MailLobbyer.Shared.NavMenu",
+        "Name": "MailLobbyer.Pages.About",
         "AssemblyName": "MailLobbyer",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MailLobbyer.Shared.NavMenu"
+            "TagName": "MailLobbyer.Pages.About"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "MailLobbyer.Shared.NavMenu",
-          "Common.TypeNameIdentifier": "NavMenu",
-          "Common.TypeNamespace": "MailLobbyer.Shared",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 197580180,
-        "Kind": "Components.Component",
-        "Name": "MailLobbyer.App",
-        "AssemblyName": "MailLobbyer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "MailLobbyer.App",
-          "Common.TypeNameIdentifier": "App",
-          "Common.TypeNamespace": "MailLobbyer",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -764547190,
-        "Kind": "Components.Component",
-        "Name": "MailLobbyer.App",
-        "AssemblyName": "MailLobbyer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MailLobbyer.App"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "MailLobbyer.App",
-          "Common.TypeNameIdentifier": "App",
-          "Common.TypeNamespace": "MailLobbyer",
+          "Common.TypeName": "MailLobbyer.Pages.About",
+          "Common.TypeNameIdentifier": "About",
+          "Common.TypeNamespace": "MailLobbyer.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
         }
@@ -220,43 +257,6 @@
         "Metadata": {
           "Common.TypeName": "MailLobbyer.Pages.Index",
           "Common.TypeNameIdentifier": "Index",
-          "Common.TypeNamespace": "MailLobbyer.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -66212333,
-        "Kind": "Components.Component",
-        "Name": "MailLobbyer.Pages.About",
-        "AssemblyName": "MailLobbyer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "About"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "MailLobbyer.Pages.About",
-          "Common.TypeNameIdentifier": "About",
-          "Common.TypeNamespace": "MailLobbyer.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 515613190,
-        "Kind": "Components.Component",
-        "Name": "MailLobbyer.Pages.About",
-        "AssemblyName": "MailLobbyer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MailLobbyer.Pages.About"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "MailLobbyer.Pages.About",
-          "Common.TypeNameIdentifier": "About",
           "Common.TypeNamespace": "MailLobbyer.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
@@ -15837,6 +15837,11 @@
     {
       "FilePath": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/Shared/NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/Shared/Footer.razor",
+      "TargetPath": "Shared\\Footer.razor",
       "FileKind": "component"
     },
     {

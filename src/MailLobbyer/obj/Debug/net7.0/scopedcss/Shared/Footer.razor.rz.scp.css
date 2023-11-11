@@ -1,0 +1,22 @@
+.footer[b-xujzwtudf5] {
+    background: repeating-linear-gradient( -45deg, #000000, #000000 10px, rgb(80, 80, 80) 10px, rgb(80, 80, 80) 50px );
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+    border-top: 2px solid rgba(0, 0, 0, 0.8);
+}
+.footer-text[b-xujzwtudf5] {
+    margin: 0; 
+    color: white; 
+    text-align: center; 
+    display: flex; 
+    align-items: center;
+    font-size: smaller;
+    font-weight: medium;
+}
