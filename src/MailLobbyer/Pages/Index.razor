@@ -10,8 +10,8 @@
 
 @if (displaysettingsform)
 {
-    <h1 class="page-title">Email Settings</h1>
     <form class="input-form" @onsubmit="SettingsFormSubmitHandler">
+        <h1 class="page-title">Email Settings:</h1>
     <div class="form-group">
         <label for="sendername">Sender name:</label>
         <input type="text" id="sendername" name="sendername" class="form-control" @bind="definedsendername" aria-label="Sender name" required />
@@ -47,8 +47,8 @@
 }
 @if(displaycsvform)
 {
-    <h1 class="page-title">CSV group selection</h1>
     <form class="input-form" @onsubmit="CSVFormSubmitHandler">
+        <h1 class="page-title">CSV group selection:</h1>
         <div class="form-group">
             <label for="inputcsvfile">Please upload a CSV file:</label>
                 <div class="custom-inputfile">
@@ -63,8 +63,8 @@
 }
 @if (displayemailform)
 {
-    <h1 class="page-title">Email</h1>
     <form class="input-form" @onsubmit="EmailFormSubmitHandler">
+        <h1 class="page-title">CSV group selection:</h1>
     <div class="form-group">
         <label for="subject">Subject:</label>
         <input type="text" id="subject" class="form-control" @bind="subject" aria-label="Subject" />
