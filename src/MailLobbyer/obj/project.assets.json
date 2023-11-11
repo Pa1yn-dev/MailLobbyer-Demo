@@ -2321,11 +2321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/MailLobbyer.csproj",
+      "projectUniqueName": "/home/kitt/Documents/GitHub/MailLobbyer-Demo/src/MailLobbyer/MailLobbyer.csproj",
       "projectName": "MailLobbyer",
-      "projectPath": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/MailLobbyer.csproj",
+      "projectPath": "/home/kitt/Documents/GitHub/MailLobbyer-Demo/src/MailLobbyer/MailLobbyer.csproj",
       "packagesPath": "/home/kitt/.nuget/packages/",
-      "outputPath": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/obj/",
+      "outputPath": "/home/kitt/Documents/GitHub/MailLobbyer-Demo/src/MailLobbyer/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/home/kitt/.local/share/godot/mono/GodotNuGetFallbackFolder"

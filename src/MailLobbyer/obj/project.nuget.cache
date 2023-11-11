@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bxgFPVinzy7yARiFr7+NVk9UbTy5v1ALT3uWhrgZUl1dMVAkjHRy31YIXAq+bSrYm0zhEK60nnV3TCZi/TiQyg==",
+  "dgSpecHash": "uFjwJDW3cgLn1+ieN3LNzAtEL9fqwXk7T77/fPZTgi5D4FuIbYZFMDtezIxEU2nrXEem6RK+pJvHqYbirp7jBA==",
   "success": true,
-  "projectFilePath": "/home/kitt/Documents/GitHub/MailLobbyer-Free/src/MailLobbyer/MailLobbyer.csproj",
+  "projectFilePath": "/home/kitt/Documents/GitHub/MailLobbyer-Demo/src/MailLobbyer/MailLobbyer.csproj",
   "expectedPackageFiles": [
     "/home/kitt/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "/home/kitt/.nuget/packages/mailkit/4.1.0/mailkit.4.1.0.nupkg.sha512",
